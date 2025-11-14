@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('My Portfolio');
 });
 
 Route::view('My Portfolio', 'My Portfolio');

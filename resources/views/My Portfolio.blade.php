@@ -7,11 +7,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-
+    <link rel="stylesheet" href="style.css">
     <title>Torres Dijay B. Portfolio</title>
-
-    
 
     <script>
     
@@ -117,7 +114,7 @@
             
             <div class="grid-container">
                 <div class="item">
-                <img src="/public/Start.png" alt="image" onclick="openModal(this.src)"  >
+                <img src="Start.png" alt="image" onclick="openModal(this.src)"  >
             </div>
             <div class="item2">
                 <img src="MainMenu.png" alt="image"onclick="openModal(this.src)" >
